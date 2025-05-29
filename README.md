@@ -35,7 +35,8 @@ ZONETECT is more than a brand—it’s a **visual movement**.
 ### 🤝 Let’s Connect
 - 💬 Ask me about: architecture, NFT art, design storytelling, or building a global creative brand
 - 📬 Email: info@zonetect.com
-- 🌐 Website: [https://zonetect.com](https://zonetect.com)
+- 🌐 Website: [https://linktr.ee/zonetect](https://linktr.ee/zonetect)
+
 - 🧠 Pronouns: she/her
 - 🤓 Fun fact: I once turned a skyscraper photo into an origami-inspired digital bear (Grizzly Fold #7 — OrigamiNexus 🐻)
 
