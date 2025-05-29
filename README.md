@@ -9,23 +9,27 @@ We work with:
 - Architects
 - Designers
 - Real estate developers
-- Cultural institutions
 - NFT communities (especially XRPL)
 
 ### 🎯 What We're Working On
-- **NFT Projects** like [OrigamiNexus](https://xrp.cafe/collection/origaminexus) and **NeoStructures**
-- Building the [ZONETECT website](https://zonetect.com) on WordPress
-- A coffee table photo book + merch hybrid concept
-- Cross-medium collaborations in architecture, fashion, and fine art
-- Immersive photography books (see: StoryBook app in dev)
-- Elevating women in design with editorial and lifestyle content
+- - **NFT Projects**:  
+  - [OrigamiNexus](https://xrp.cafe/collection/origaminexus)  
+  - [NeoStructures](https://xrp.cafe/collection/neostructures)  
+  - [MechTotems](https://xrp.cafe/collection/mechtotems)  
+  - [Designscape Reverie](https://xrp.cafe/collection/designscapereverie)
+
+- Building the [ZONETECT website](https://zonetect.com) on WordPress with Semplice
+- Developing a coffee table photo book + merch hybrid concept
+- Leading cross-medium collaborations in architecture, fashion, and fine art
+- Creating immersive photography books (see: **StoryBook** app in development)
+- Elevating women in design through editorial storytelling and lifestyle content
+
 
 ### 🛠 Tech + Tools
 - Adobe Creative Suite (Illustrator, Photoshop, InDesign)
 - WordPress, Semplice, Concur
-- Canon + Sony Alpha gear
+- DJI + Sony Alpha gear
 - Behance, Pinterest, X/Twitter, GitHub
-- AI experimentation (yes, I’m talking to you 😏)
 
 ### 🌍 Backstory & Vision
 I’m Zoni Smith, a New Yorker turned global explorer—architectural photographer, digital artist, and founder of ZONETECT. From Cairo to Dubai, Paris to NYC, I photograph buildings like characters and tell stories through symmetry, geometry, and mood.
